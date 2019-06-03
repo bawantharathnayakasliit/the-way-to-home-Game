@@ -13,6 +13,7 @@
 -------------------------------------------------
 
 Support the all web browsers!!
+play it now - https://bawantharathnayakasliit.github.io/the-way-to-home-Game/
 
 ---------------------------------
 HAPPY GAMING!    
