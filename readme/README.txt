@@ -4,6 +4,8 @@
 1.unzip Way To home Folder
 2.double click the index.html and play it!
 
+*If images, charcters weren't loaded, just extract images.zip  file too.
+
 -------------------------------------------------
 
 --Game Development Team--
@@ -15,6 +17,8 @@
 
 Support the all web browsers!!
 
+---------------------------------
+This game was made using Construct2 platform.
 ---------------------------------
 HAPPY GAMING!    
 ---------------------------------
